@@ -1,10 +1,12 @@
 # PyBer_-Analysis
 ## Project Overview
 The project is helping Pyber to organize the data and create the visulaizes to analysis the relationship between riders and drivers in different cities.
-*Organize data steps:
+
+* Organize data steps:
 1. Import your data into a Pandas DataFrame.
 2. Merge your DataFrames.
-*Visulaize data steps:
+
+* Visulaize data steps:
 1. Create a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban, suburban, and rural.
 2. Determine the mean, median, and mode for the following:
 The total number of rides for each city type.
