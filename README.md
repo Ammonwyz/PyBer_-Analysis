@@ -25,19 +25,25 @@ Data Resource: city_data.csv and ride_data.csv
 Software: Pandas liabaries, Matplotlib in Jupyter Notebook
 
 ## Results
-We can feel from the bubble's picture that uber has the most riders and drivers and the lowest cost per ride, while rural has the least riders and drivers and the highest cost per ride.
+We can feel from the bubble's picture that urban has the most riders and drivers and the lowest cost per ride, while rural has the least riders and drivers and the highest cost per ride.
+
 ![img](analysis/Fig1.png)
 
 However, the clear results we need to check the summaries.
 
 ![img](analysis/Fig2.png)
 
+Urban has highest amount of ride.
+
 ![img](analysis/Fig3.png)
+
+Rural has highest average fare per ride.
 
 ![img](analysis/Fig4.png)
 
+Urban has most drivers.
 
-Uber has low cost of per ride, but total fares of ride is high. On the opposite side, rural has low total fares of rides, but high cost of per ride.
+The chart of summary shows that urban has low cost of per ride, but total fares of ride is high. On the opposite side, rural has low total fares of rides, but high cost of per ride.
 
 ![img](analysis/PyBer_fare_summary.png)
 
