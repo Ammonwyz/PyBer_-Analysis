@@ -25,7 +25,7 @@ Data Resource: city_data.csv and ride_data.csv
 Software: Pandas liabaries, Matplotlib in Jupyter Notebook
 
 ## Results
- 
+![img](analysis/Fig1.png)
 
 ## Summary
 
